@@ -1,0 +1,24 @@
+{
+    "extends":  "dtslint/dtslint.json",
+	"rules": {
+		"strict-export-declare-modifiers": false,
+		"no-unnecessary-generics": false,
+		"no-unnecessary-class": false,
+		"interface-name": false,
+		"max-line-length": false,
+		"no-any-union": false,
+		"no-single-declare-module": false,
+		"interface-over-type-literal": false,
+		"no-empty-interface": false,
+		"ban-types": false,
+		"unified-signatures": false,
+		"dt-header": true,
+		"no-bad-reference": true,
+		"no-declare-current-package": true,
+		"no-self-import": true,
+		"no-outside-dependencies": true,
+		"no-redundant-jsdoc": false,
+		"no-redundant-jsdoc-2": false,
+		"npm-naming": [true, { "mode": "code" }]
+	}
+}

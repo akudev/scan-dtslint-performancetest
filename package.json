@@ -1,0 +1,16 @@
+{
+  "name": "scan-dtslint-performancetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@sapui5/ts-types-esm": "^1.108.0",
+    "dtslint": "^4.2.1"
+  }
+}

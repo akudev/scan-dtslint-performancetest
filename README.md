@@ -13,3 +13,7 @@ cd scan-dtslint-performancetest
 npm install
 npm start
 ```
+
+Run `npm start` several times to get a somewhat stable reading - the first time is often slower.
+
+The duration is printed on the command line when finished.

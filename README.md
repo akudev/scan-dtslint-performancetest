@@ -17,3 +17,5 @@ npm start
 Run `npm start` several times to get a somewhat stable reading - the first time is often slower.
 
 The duration is printed on the command line when finished.
+
+Make it run in a location where the on-access scanner is not active, distorting the result.
